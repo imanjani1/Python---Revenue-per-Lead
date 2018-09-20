@@ -1,4 +1,7 @@
 # Python---Revenue-per-Lead
+
+![Vote](Instructions/Images/revenue-per-lead.jpg)
+
  Python script for analyzing the financial records of your company. 
  
 two sets of revenue data (`budget_data_1.csv` and `budget_data_2.csv`). Each dataset is composed of two columns: `Date` and `Revenue`. (Thankfully, your company has rather lax standards for accounting so the records are simple.)
