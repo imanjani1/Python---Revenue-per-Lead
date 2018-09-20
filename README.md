@@ -1,7 +1,9 @@
 # Python---Revenue-per-Lead
-a Python script for analyzing the financial records of your company. You will be given two sets of revenue data (`budget_data_1.csv` and `budget_data_2.csv`). Each dataset is composed of two columns: `Date` and `Revenue`. (Thankfully, your company has rather lax standards for accounting so the records are simple.)
+ Python script for analyzing the financial records of your company. 
+ 
+two sets of revenue data (`budget_data_1.csv` and `budget_data_2.csv`). Each dataset is composed of two columns: `Date` and `Revenue`. (Thankfully, your company has rather lax standards for accounting so the records are simple.)
 
-Your task is to create a Python script that analyzes the records to calculate each of the following:
+this Python script that analyzes the records to calculate each of the following:
 
 * The total number of months included in the dataset
 
@@ -25,4 +27,4 @@ Greatest Increase in Revenue: Sep-16 ($815531)
 Greatest Decrease in Revenue: Aug-12 ($-652794)
 ```
 
-Your final script must be able to handle any such similarly structured dataset in the future (your boss is going to give you more of these -- so your script has to work for the ones to come). In addition, your final script should both print the analysis to the terminal and export a text file with the results.
+
